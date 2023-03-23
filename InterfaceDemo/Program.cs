@@ -23,7 +23,7 @@ namespace InterfaceDemo
             }
             IEat[] eats = new IEat[2] 
             {
-                new Worker() ,
+                new Worker(),
                 new Manager()
             };
             foreach (var eat in eats) 
@@ -71,7 +71,6 @@ namespace InterfaceDemo
             {
                 Console.WriteLine("İşciler Maaş Alıyor");
             }
-
 
         }
 
