@@ -6,3 +6,11 @@ C:\Users\Adem\source\repos\Interfaces\InterfaceDemo\obj\Debug\InterfaceDemo.cspr
 C:\Users\Adem\source\repos\Interfaces\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
 C:\Users\Adem\source\repos\Interfaces\InterfaceDemo\obj\Debug\InterfaceDemo.exe
 C:\Users\Adem\source\repos\Interfaces\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.AssemblyReference.cache
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
