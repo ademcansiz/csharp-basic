@@ -1,0 +1,8 @@
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\AbstractClasses\obj\Debug\AbstractClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Adem\Documents\GitHub\csharp-interfaces\AbstractClasses\obj\Debug\AbstractClasses.pdb

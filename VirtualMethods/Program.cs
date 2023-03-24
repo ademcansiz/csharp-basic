@@ -15,7 +15,6 @@ namespace VirtualMethods
             MySql mySql = new MySql();
             mySql.Update();
             Console.ReadKey();
-
         }
 
         class Database 
@@ -55,8 +54,7 @@ namespace VirtualMethods
             {
                 /*base.Update();*/
                 Console.WriteLine("Update By MySql Code");
-              
             }
-        }
+        }   
     }
 }
