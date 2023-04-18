@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csproj", "{4606D23D-8B88-45EA-8733-65436B172BF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref", "Ref\Ref.csproj", "{B1FE56E7-AB48-44F6-8206-5AEEB78A162C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4606D23D-8B88-45EA-8733-65436B172BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4606D23D-8B88-45EA-8733-65436B172BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4606D23D-8B88-45EA-8733-65436B172BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1FE56E7-AB48-44F6-8206-5AEEB78A162C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FE56E7-AB48-44F6-8206-5AEEB78A162C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1FE56E7-AB48-44F6-8206-5AEEB78A162C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1FE56E7-AB48-44F6-8206-5AEEB78A162C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

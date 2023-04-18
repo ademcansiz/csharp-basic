@@ -1,0 +1,8 @@
+C:\Users\Adem\Documents\GitHub\csharp-basic\Ref\bin\Debug\Ref.exe.config
+C:\Users\Adem\Documents\GitHub\csharp-basic\Ref\bin\Debug\Ref.exe
+C:\Users\Adem\Documents\GitHub\csharp-basic\Ref\bin\Debug\Ref.pdb
+C:\Users\Adem\Documents\GitHub\csharp-basic\Ref\obj\Debug\Ref.csproj.AssemblyReference.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Ref\obj\Debug\Ref.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Ref\obj\Debug\Ref.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Ref\obj\Debug\Ref.exe
+C:\Users\Adem\Documents\GitHub\csharp-basic\Ref\obj\Debug\Ref.pdb
