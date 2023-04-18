@@ -1,0 +1,8 @@
+C:\Users\Adem\Documents\GitHub\csharp-basic\Params\bin\Debug\Params.exe.config
+C:\Users\Adem\Documents\GitHub\csharp-basic\Params\bin\Debug\Params.exe
+C:\Users\Adem\Documents\GitHub\csharp-basic\Params\bin\Debug\Params.pdb
+C:\Users\Adem\Documents\GitHub\csharp-basic\Params\obj\Debug\Params.csproj.AssemblyReference.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Params\obj\Debug\Params.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Params\obj\Debug\Params.exe
+C:\Users\Adem\Documents\GitHub\csharp-basic\Params\obj\Debug\Params.pdb

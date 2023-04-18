@@ -6,3 +6,11 @@ C:\Users\Adem\Documents\GitHub\csharp-interfaces\Constructors\obj\Debug\Construc
 C:\Users\Adem\Documents\GitHub\csharp-interfaces\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
 C:\Users\Adem\Documents\GitHub\csharp-interfaces\Constructors\obj\Debug\Constructors.exe
 C:\Users\Adem\Documents\GitHub\csharp-interfaces\Constructors\obj\Debug\Constructors.pdb
+C:\Users\Adem\Documents\GitHub\csharp-basic\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Adem\Documents\GitHub\csharp-basic\Constructors\bin\Debug\Constructors.exe
+C:\Users\Adem\Documents\GitHub\csharp-basic\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Adem\Documents\GitHub\csharp-basic\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Constructors\obj\Debug\Constructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Constructors\obj\Debug\Constructors.exe
+C:\Users\Adem\Documents\GitHub\csharp-basic\Constructors\obj\Debug\Constructors.pdb
