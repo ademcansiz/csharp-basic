@@ -1,0 +1,8 @@
+C:\Users\Adem\Documents\GitHub\csharp-basic\Out\bin\Debug\Out.exe.config
+C:\Users\Adem\Documents\GitHub\csharp-basic\Out\bin\Debug\Out.exe
+C:\Users\Adem\Documents\GitHub\csharp-basic\Out\bin\Debug\Out.pdb
+C:\Users\Adem\Documents\GitHub\csharp-basic\Out\obj\Debug\Out.csproj.AssemblyReference.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Out\obj\Debug\Out.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Out\obj\Debug\Out.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Out\obj\Debug\Out.exe
+C:\Users\Adem\Documents\GitHub\csharp-basic\Out\obj\Debug\Out.pdb

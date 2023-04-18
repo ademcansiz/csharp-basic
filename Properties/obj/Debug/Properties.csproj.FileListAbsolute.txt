@@ -1,0 +1,8 @@
+C:\Users\Adem\Documents\GitHub\csharp-basic\Properties\bin\Debug\Properties.exe.config
+C:\Users\Adem\Documents\GitHub\csharp-basic\Properties\bin\Debug\Properties.exe
+C:\Users\Adem\Documents\GitHub\csharp-basic\Properties\bin\Debug\Properties.pdb
+C:\Users\Adem\Documents\GitHub\csharp-basic\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Properties\obj\Debug\Properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Documents\GitHub\csharp-basic\Properties\obj\Debug\Properties.exe
+C:\Users\Adem\Documents\GitHub\csharp-basic\Properties\obj\Debug\Properties.pdb
